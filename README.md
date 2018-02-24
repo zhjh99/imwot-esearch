@@ -119,5 +119,7 @@ https://www.cnblogs.com/huangfox/p/3524470.html
 
 https://www.cnblogs.com/tangshiguang/p/6763372.html
 
+https://www.biaodianfu.com/lucene-score.html
+
 工具 sourcetree
 aaa
