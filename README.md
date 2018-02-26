@@ -115,6 +115,10 @@ skiplist
 并发
 
 参考网页:
+
+搜索引擎索引的数据结构和算法
+http://blog.jobbole.com/101792/
+
 https://www.cnblogs.com/huangfox/p/3524470.html
 
 https://www.cnblogs.com/tangshiguang/p/6763372.html
