@@ -123,5 +123,8 @@ https://www.biaodianfu.com/lucene-score.html
 
 https://www.cnblogs.com/yjf512/p/4860134.html
 
+双数组Trie树(DoubleArrayTrie)Java实现
+
+http://www.hankcs.com/program/java/%E5%8F%8C%E6%95%B0%E7%BB%84trie%E6%A0%91doublearraytriejava%E5%AE%9E%E7%8E%B0.html
 工具 sourcetree
 aaa
