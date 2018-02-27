@@ -137,5 +137,8 @@ http://archive.apache.org/dist/lucene/java/
 Lucene简介和索引原理
 http://blog.csdn.net/mine_song/article/details/56476247
 
+lucene字典实现原理
+http://blog.jobbole.com/80669/
+
 工具 sourcetree
 aaa
