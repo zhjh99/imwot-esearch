@@ -134,6 +134,8 @@ http://www.hankcs.com/program/java/%E5%8F%8C%E6%95%B0%E7%BB%84trie%E6%A0%91doubl
 lucene 各个版本的下载地址
 http://archive.apache.org/dist/lucene/java/
 
+Lucene简介和索引原理
+http://blog.csdn.net/mine_song/article/details/56476247
 
 工具 sourcetree
 aaa
