@@ -143,5 +143,8 @@ http://blog.jobbole.com/80669/
 lucene底层数据结构——FST，针对field使用列存储，delta encode压缩doc ids数组，LZ4压缩算法
 https://www.cnblogs.com/bonelee/p/6226386.html
 
+utf8编码原理详解
+http://blog.csdn.net/baixiaoshi/article/details/40786503
+
 工具 sourcetree
 aaa
